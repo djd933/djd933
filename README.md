@@ -1,55 +1,53 @@
 # David J. Dickson
 
-### Aspiring AI & Data Engineer | Founder, Stallion Systems & Pipeline Baseball
+### Aspiring AI & Data Engineer | Founder, Stallion & Pipeline Baseball
 
-I build applied AI, analytics, automation, and data-driven software systems with a focus on turning complex information into useful tools and decision-support workflows.
-
-My work spans **business intelligence, data systems, workflow automation, sports analytics, and applied AI**. I'm currently developing Stallion Systems, a multi-application software ecosystem built around GitHub-centered development, reusable infrastructure, and AI-assisted engineering workflows.
+Analytical and technically driven professional combining business, data science, software development, and entrepreneurship. Graduate-level training in data science with hands-on experience building AI-assisted applications, analytics platforms, and automation workflows across business, finance, and sports. Hands-on experience with Python, SQL, Git/GitHub, and application development. Founder of Pipeline Baseball and Stallion.
 
 ## Current Focus
 
-- Applied AI and AI-assisted software development
-- Data engineering and analytics systems
-- Business intelligence and decision-support tools
-- Workflow and developer automation
-- Sports and performance analytics
-- Secure, reusable multi-application infrastructure
+- Applied AI
+- AI automation
+- Data engineering
+- Analytics engineering
+- Business intelligence
+- Junior data science
+- Technical and data analyst roles
+- Software and data systems
 
 ## Technologies
 
 **Programming & Data:** Python, SQL, R, C++, Pandas, NumPy, Matplotlib, Excel  
-**Software & Web:** Git, GitHub, REST APIs, SQLite, Express, Vite, data ingestion and modeling  
-**AI & Automation:** Claude Code, ChatGPT, n8n, AI-assisted development, agent workflows, prompt engineering  
-**Analytics:** Statistical modeling, forecasting, business intelligence, KPI analysis, data visualization, sports analytics
+**Software & Web:** Git, GitHub, REST APIs, SQLite, Express, Vite, Data ingestion, Data modeling  
+**AI & Automation:** Claude Code, ChatGPT, n8n, AI-assisted development, Agent workflows, Prompt engineering  
+**Analytics:** Statistical modeling, Forecasting, Business intelligence, KPI analysis, Data analysis, Data visualization, Sports analytics  
 
 ## Selected Work
 
 ### Business Intelligence & Decision Systems
-Developing configurable analytics infrastructure using semantic data modeling, metric definitions, forecasting and backtesting, explainable rule-based insights, metric-triggered automation, authenticated API ingestion, and organization-scoped data access.
 
-### Sports Analytics Platform
-Developing a full-stack sports analytics application using Express, SQLite, and Vite, including fantasy player grading, odds analysis, external data integrations, and scheduled data refresh workflows.
+Generic semantic data model with configurable metric definitions, deterministic seasonal-trend and moving-average forecasting, holdout backtesting, explainable rule-based insights, metric-triggered automation, and organization-scoped data isolation.
 
-### AI-Assisted Development Infrastructure
-Building a GitHub-centered development workflow that combines AI-assisted engineering, issue-driven development, branches and pull requests, human review, automation, and reusable standards across multiple applications.
+Implementation is maintained in private repositories.
 
-### Pipeline Baseball
-Founder of a player-development business using swing metrics, video, performance data, and individualized training frameworks to support athlete development and coaching decisions.
+### Sports Analytics Platform (in development)
 
-## About Stallion Systems
+Express API with SQLite persistence and a Vite frontend; fantasy player-grade modeling, external sports-data integrations, and scheduled data-refresh jobs.
 
-Stallion Systems is my ongoing effort to build interconnected software and intelligence systems across business, finance, sports, productivity, and other data-rich domains. Much of the underlying application and infrastructure work is maintained in **private repositories** while selected demonstrations and portfolio-safe projects will be published here over time.
+Implementation is maintained in private repositories.
+
+### AI-Assisted Development Infrastructure (in development)
+
+GitHub as source of truth for an issue-driven, branch/PR-based workflow using Claude Code and n8n, with standardized application patterns still being established.
+
+Implementation is maintained in private repositories.
 
 ## Education
 
-**University of Virginia's College at Wise** — B.S. Business Administration, 2025  
-**Eastern University** — Graduate Coursework in Data Science, 2025–2026
+**Eastern University** — Graduate Coursework in Data Science, August 2025 - 2026  
+**University of Virginia's College at Wise** — Bachelor of Science in Business Administration, 2021 - May 2025  
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/david-dickson-297573225)
 - [GitHub](https://github.com/djd933)
-
----
-
-*Interested in applied AI, data engineering, analytics engineering, automation, and intelligent software systems.*
